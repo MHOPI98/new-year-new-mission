@@ -33,5 +33,31 @@ header {
     color: #e30bd4;
     font-size: 72px;
     font-weight: 900;
-    
+
+}
+
+.categories {
+    text-align: center;
+    font-family: Inter;
+}
+
+.categories-title {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top: 60px;
+}
+
+.categories-desc {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+}
+
+.catergories-content {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 40px;
 }
