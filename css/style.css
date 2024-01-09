@@ -98,6 +98,7 @@ header {
     font-weight: 700;
     text-transform: uppercase;
     padding: 20px 150px;
+    
 }
 
 .victor-col img {
@@ -328,12 +329,16 @@ header {
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     color: #FFF;
+
 }
 
 .footer-body {
     background-color: #070211;
     height: 400px;
     padding: 50px;
+    margin-top: 125px;
+    
+    
 }
 
 .footer-content {
