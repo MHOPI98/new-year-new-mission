@@ -63,7 +63,6 @@ header {
     font-weight: 700;
     margin-bottom: 40px;
 }
-
 .victor-container {
     background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
     display: flex;
@@ -74,7 +73,6 @@ header {
     border-radius: 20px;
     background-repeat: no-repeat;
 }
-
 .victor-title {
     color: #FFF;
     font-size: 64px;
@@ -82,7 +80,6 @@ header {
     letter-spacing: 7.04px;
     padding: 120px 120px 0px 120px;
 }
-
 .victor-desc {
     color: rgba(255, 255, 255, 0.80);
     font-size: 18px;
@@ -90,7 +87,6 @@ header {
     width: 697px;
     padding: 10px 120px;
 }
-
 .victor-join {
     color: #FFF;
     font-family: Inter;
@@ -99,14 +95,12 @@ header {
     text-transform: uppercase;
     padding: 20px 150px;
 }
-
 .victor-col img {
     width: 319.83px;
     height: 464.662px;
     margin: 70px 120px 70px -80px;
     align-items: center;
 }
-
 .hotel {
 
     margin: 60px 80px;
@@ -114,8 +108,6 @@ header {
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     font-family: Inter;
     text-align: center;
-
-
 }
 
 .hotel-container {
@@ -149,28 +141,13 @@ header {
 }
 
 .offer {
-    margin: 60px 80px;
+    margin: 120px;
     height: 482px;
     display: flex;
-    justify-content: space-evenly;
-    gap: 70;
     align-items: center;
     font-family: Inter;
     
 }
-
-.offer-col {
-    max-width: 30%;   
-    
-}
-
-.offer-title {
-    color: #F00;
-    font-size: 24px;
-    font-weight: 500;
-    padding-top: 25%;
-}
-
 .offer-desc {
     color: #070211;
     font-size: 48px;
@@ -182,39 +159,30 @@ header {
     color: rgba(7, 2, 17, 0.60);
     font-size: 20px;
     font-weight: 400;
-    line-height: 32px; 
+    line-height: 30px; 
 
-}
-
-.boder {
-    border-radius: 50%;
-    border: 15px solid #F00;
-    height: 400px;
-    width: 400px;
 }
 
 .boder-img {
-    width: 360px;
-    height: 360px;
-    border-radius: 360px;
+    width: 364px;
+    height: 364px;
+    border-radius: 463px;
     padding: 20px;
+    border: 12px solid #F00;
+    margin-left: 70px;
 }
 .container
 {
-    padding-left: 70px;
+    padding-left: 80px;
     
 }
 .offer-year {
     color: #F00;
     font-size: 48px;
     font-weight: 700;
-    padding-top: 30%;
-    
+    padding-top: 80px;
 }
-
-
 .img {
     margin-top: 30px;
-    width: 140px;
-    height: 140px;
+    
 }
