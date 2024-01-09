@@ -241,7 +241,7 @@ header {
     padding: 0 300px;
 
 }
-.img_functions{
+.holiday-img{
     margin: 60px;
     height: 400px;
     background-image:  url('../resources/Rectangle\ 1.png');
@@ -250,7 +250,7 @@ header {
     
 }
 
-.img_function{
+.images{
     height: 600px;
     
     display: flex;
@@ -311,14 +311,19 @@ header {
 .contact input {
     border-top-left-radius: 50px;
     border-bottom-left-radius: 50px;
-    background: #FFF;
-    width: 400px;
-    height: 72px;
+    width: 300px;
+    text-align: center;
+    border: none;
+    height: 50px;
+    color: black;
 }
 
 .btn {
-    width: 105px;
-    height: 75px;
+    width: 150px;
+    text-align: center;
+    height: 50px;
+    border: none;
     border-radius: 0px 50px 50px 0px;
     background: #F00;
+    color: #FFF;
 }
