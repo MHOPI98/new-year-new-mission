@@ -241,37 +241,39 @@ header {
     padding: 0 300px;
 
 }
-.holiday-img{
+
+.holiday-img {
     margin: 60px;
     height: 400px;
-    background-image:  url('../resources/Rectangle\ 1.png');
+    background-image: url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: right bottom;
-    
+
 }
 
-.images{
+.images {
     height: 600px;
-    
+
     display: flex;
     background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
-   
-    
+
+
 }
 
-.opi-t{
+.opi-t {
     height: 550px;
     width: 400;
 }
-.opi
-{
+
+.opi {
     width: 300px;
     height: 300px;
     margin-top: 30px;
 
 }
+
 .Gifts {
     margin: 60px 80px;
     text-align: left;
@@ -326,4 +328,67 @@ header {
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     color: #FFF;
+}
+
+.footer-body {
+    background-color: #070211;
+    height: 400px;
+    padding: 50px;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.footer-desc {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.footer-add img {
+    float: left;
+    margin-right: 10px;
+}
+
+.footer-add {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 30px;
+    width: 250px;
+    padding-bottom: 30px;
+}
+
+.social {
+    padding: 25px;
+    text-align: center;
+}
+
+.social img {
+    width: 64px;
+    height: 64px;
+}
+hr{
+    background: rgba(255, 255, 255, 0.15);
+}
+.ft {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+}
+
+.ft p {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
 }
