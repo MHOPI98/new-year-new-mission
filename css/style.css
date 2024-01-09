@@ -147,3 +147,74 @@ header {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+.offer {
+    margin: 60px 80px;
+    height: 482px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 70;
+    align-items: center;
+    font-family: Inter;
+    
+}
+
+.offer-col {
+    max-width: 30%;   
+    
+}
+
+.offer-title {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 25%;
+}
+
+.offer-desc {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.offer-content {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+
+}
+
+.boder {
+    border-radius: 50%;
+    border: 15px solid #F00;
+    height: 400px;
+    width: 400px;
+}
+
+.boder-img {
+    width: 360px;
+    height: 360px;
+    border-radius: 360px;
+    padding: 20px;
+}
+.container
+{
+    padding-left: 70px;
+    
+}
+.offer-year {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 30%;
+    
+}
+
+
+.img {
+    margin-top: 30px;
+    width: 140px;
+    height: 140px;
+}
