@@ -57,7 +57,7 @@ header {
     margin-top: 30px;
 }
 
-.catergories-content {
+.categories-content {
     color: #070211;
     font-size: 48px;
     font-weight: 700;
@@ -241,32 +241,37 @@ header {
     padding: 0 300px;
 
 }
-
-.discount {
-    margin: 60px 80px;
+.img_functions{
+    margin: 60px;
     height: 400px;
-    background-image: url('../resources/Rectangle\ 1.png');
+    background-image:  url('../resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: right bottom;
-
+    
 }
 
-#opi {}
-
-.star {
+.img_function{
     height: 600px;
+    
     display: flex;
     background-image: url('../resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom;
-    border-radius: 16px 0px 16px 16px;
+   
+    
 }
 
-.star img {
-    height: 600px;
+.opi-t{
+    height: 550px;
     width: 400;
 }
+.opi
+{
+    width: 300px;
+    height: 300px;
+    margin-top: 30px;
 
+}
 .Gifts {
     margin: 60px 80px;
     text-align: left;
@@ -296,4 +301,24 @@ header {
 .grid img:hover {
     border: 2px solid #F00;
     border-radius: 15px;
+}
+
+#sms {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.contact input {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background: #FFF;
+    width: 400px;
+    height: 72px;
+}
+
+.btn {
+    width: 105px;
+    height: 75px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
 }
